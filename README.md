@@ -1,15 +1,5 @@
 # HR Chatbot using ChatGPT, LangChain, Pinecone and Streamlit on Python Language
 
-
-#### Sample Chat
-
-![sample_chat](assets/sample_chat.png)
-
-#### Sample Tool Use
-
-![sample_tool_use](assets/sample_tool_use.png)
-
----
 ### Instructions
 ---
 Backend file --> `hr_agent_backend_local.py`if not want to use Azure.  
@@ -40,15 +30,3 @@ Have not used any Azure components - the API is from platform.openai.com, and th
 [Azure Data Lake](https://azure.microsoft.com/en-us/solutions/data-lake) - for landing the employee data csv files. Any other cloud storage should work just as well (blob, S3 etc).    
 [Azure Data Factory](https://azure.microsoft.com/en-ca/products/data-factory/) - used to create the data pipeline.  
 [SAP HCM](https://www.sap.com/sea/products/hcm/what-is-sap-hr.html) - the source system for employee data.   
-
-
-
-
-
-
-#### Stephen Bonifacio
-
-Feel free to connect with me on:
-
-Linkedin: https://www.linkedin.com/in/stephenbonifacio/  
-Twitter: https://twitter.com/Stepanogil  
